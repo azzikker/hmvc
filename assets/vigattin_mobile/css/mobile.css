@@ -1,0 +1,250 @@
+.push
+{
+    clear: both;
+}
+.mobile
+{
+    max-width: 400px;
+    width: 100%;
+}
+.m-navigation
+{
+    position: relative;
+    height: 36px;
+    float: left;
+    width: 100%;
+    min-width: 320px;
+}
+.m-navigation div
+{
+    float: left;
+    font-weight: bold;
+    width: 19%;
+    height: 36px;
+    text-align: center;
+    margin: 1px;
+    font-size: 13px;
+    background-color: green;
+    color: white;
+    text-shadow: 0px 1px 2px black;
+    background: url('../images/header.jpg');
+}
+.m-navigation div#active
+{
+    background: none;
+    background-color: black;
+}
+.m-content
+{
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.m-dealbox
+{
+    height: 250px;
+    width: 96%;
+    border: 1px solid black;
+    max-width: 400px;
+}
+.m-dealbox-h
+{
+    height: 22px;
+    background-color: #628C38;
+    text-indent: 5px;
+    font-weight: bold;
+    color: white;
+    padding-top: 3px;
+    text-shadow: 0px 1px 3px black;
+    background: url('../images/header.jpg');
+    font-size: 12px;
+}
+.m-dealbox-img
+{
+    position: relative;
+    height: 150px;
+}
+.m-dealbox-img img
+{
+    width: 100%;
+    height: 100%;
+}
+.m-dealbox-timer
+{
+    display: none;
+    position: absolute;
+    height: 30px;
+    background-color: black;
+    width: 50%;
+    min-width: 165px;
+    margin: auto;
+    right: 0;
+    left: 0;
+    opacity:0.5;
+}
+.m-dealbox-timer div
+{
+    font-size: 12px;
+    float: left;
+    color: black;
+    height: 18px;
+    margin: 5px;
+    width: 18%;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.m-dealbox-b
+{
+    height: 75px;
+    width: 100%;
+}
+.m-dealbox-info
+{
+    width: 60%;
+    float: left;
+    height: 100%;
+}
+.m-dealbox-btn
+{
+    width: 40%;
+    float: left;
+    height: 100%;
+}
+.m-dealbox-btna
+{
+    width: 94%;
+    height: 92%;
+    margin: 2px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 65px;
+    text-align: center;
+    text-shadow: 0px 1px 3px black;
+    background: url("../images/navigation_large.jpg");
+    background-color: green;
+}
+.m-dealbox-btns
+{
+    width: 88%;
+    height: 85%;
+    border: 5px solid white;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 65px;
+    text-align: center;
+    text-shadow: 0px 1px 3px black;
+    background-color: red;
+}
+.m-dealbox-s,.m-dealbox-s2
+{
+    float: left;
+    width: 50%;
+    height: 98%;
+}
+.m-dealbox-dp
+{
+    height: 49%;
+    width: 99%;
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: bold;
+    color: orange;
+    border: 1px solid white;
+    background-color: black;
+    text-align: center;
+}
+.m-dealbox-op
+{
+    height: 49%;
+    width: 99%;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    line-height: 10px;
+    text-align: center;
+}
+#m-dealbox-opl
+{
+    font-size: 12px;
+    font-weight: bold;
+    height: 50%;
+}
+#m-dealbox-opp
+{
+    font-size: 16px;
+    color: #693;
+    font-weight: bold;
+    height: 50%;
+}
+.m-dealbox-d
+{
+    height: 49%;
+    width: 99%;
+    border: 1px solid white;
+    background-color: black;
+    color: #693;
+    font-weight: bold;
+    line-height: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+.m-dealbox-sld
+{
+    height: 49%;
+    width: 99%;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#m-dealbox-sldl
+{
+    height: 40%;
+    font-size: 12px;
+    font-weight: bold;
+}
+#m-dealbox-sldc
+{
+    height: 60%;
+    font-size: 16px;
+    font-weight: bold;
+}
+#m-dealbox-oos
+{
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 30px;
+}
+.m-category
+{
+    min-height: 36px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    float: left;
+    width: 100%;
+    min-width: 312px;
+}
+.m-category div
+{
+    float: left;
+    width: 16%;
+    min-height: 36px;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+    min-width: 50px;
+}
+.m-category div#active
+{
+    background: none;
+    background-color: black;
+    color: white;
+}

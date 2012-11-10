@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+div.container div.content div.lower_content div.lower_main div.media div.transbg {
+	filter: alpha(opacity = 30);
+	width:660px;
+	height:360px;
+}
+div.container div.content div.lower_content div.lower_sidebar div.add_slide div.transbg {
+	filter: alpha(opacity = 30);
+	width:255px;
+	height:360px;
+}
+

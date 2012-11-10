@@ -1,0 +1,16 @@
+body
+{
+    font-family: "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+.header
+{
+    height: 30px;
+    background: url("../images/logo.png") no-repeat;
+}
+a
+{
+    text-decoration: none;
+}

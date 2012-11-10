@@ -1,0 +1,44 @@
+.morders
+{
+    width: 98%;
+    border: 1px solid black;
+    font-size: 12px;
+    float: left;
+    margin-top: 10px;
+}
+#morders-h
+{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    height: 20px;
+    text-indent: 5px;
+    background: url('../images/header.jpg');
+}
+#morders-b
+{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid gray;
+}
+#morders-b-img
+{
+    margin: auto;
+}
+#morders-b-d1
+{
+    font-weight: bold;
+}
+#morders-b-d2
+{
+    border-bottom: 1px solid gray;
+}
+#morders-b-d3
+{
+    color: orange;
+}
+#morders-b-d4
+{
+    color: orange;
+}

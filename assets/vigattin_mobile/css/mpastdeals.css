@@ -1,0 +1,106 @@
+.mpastdeal
+{
+    width: 100%;
+    max-width: 400px;
+    font-size: 12px;
+}
+.mpastdeal-c
+{
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    overflow: auto;
+}
+#mpastdeal-h
+{
+    font-weight: bold;
+    background-color: green;
+    background: url('../images/header.jpg');
+    color: white;
+    text-indent: 5px;
+}
+#mpastdeal-d
+{
+    width: 70%;
+    float: left;
+}
+#mpastdeal-d1
+{
+    color: #F90;
+    margin: 1px;
+    text-align: center;
+    width: 49%;
+    float: left;
+    min-height: 33px;
+    line-height: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: black;
+}
+#mpastdeal-d2
+{
+    width: 49%;
+    float: left;
+    min-height: 33px;
+    margin: 1px;
+    background-color: black;
+    color: #693;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 30px;
+    text-align: center;
+}
+#mpastdeal-d3
+{
+    width: 49%;
+    float: left;
+    min-height: 33px;
+    text-align: center;
+    background-color: black;
+    margin: 1px;
+    color: #693;
+    font-weight: bold;
+}
+#mpastdeal-d3 span
+{
+    font-size: 10px;
+    color: white;
+}
+#mpastdeal-d4
+{
+    width: 49%;
+    float: left;
+    min-height: 33px;
+    background-color: black;
+    color: white;
+    margin: 1px;
+    text-align: center;
+    font-weight: bold;
+}
+#mpastdeal-d4 span
+{
+    font-size: 10px;
+}
+#mpastdeal-d4-so
+{
+    line-height: 30px;
+    font-weight: bold;
+    color: red;
+    font-size: 16px;
+}
+#mpastdeal-btn
+{
+    width: 29%;
+    background-color: green;
+    float: left;
+    border: 1px outset green;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    height: 55px;
+    padding-top: 12px;
+    background: url('../images/navigation_large.jpg');
+    text-shadow: 0px 1px 3px black;
+    font-weight: bold;
+}

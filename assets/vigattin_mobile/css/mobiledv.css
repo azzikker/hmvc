@@ -1,0 +1,78 @@
+.mobiledv
+{
+    width: 92%;
+    float: left;
+    padding: 5px;
+    border: 1px solid black;
+    margin: 5px;
+}
+#mobiledv-hlts
+{
+    text-align: left;
+    border-bottom: 1px solid gray;
+}
+#mobiledv-hlts-h
+{
+    font-size: 14px;
+    font-weight: bold;
+}
+#mobiledv-hlts-c
+{
+    font-size: 12px;
+    line-height: 20px;
+}
+#mobiledv-hlts-c li
+{
+    background: url('../images/green_bullets.png') no-repeat 0px 4px;
+    display: block;
+    padding-left: 10px;
+}
+#mobiledv-cntns
+{
+    padding-top: 10px;
+    font-size: 12px;
+    border-bottom: 1px solid gray;
+    text-align: left;
+}
+#mobiledv-trms
+{
+    font-size: 12px;
+    border-bottom: 1px solid gray;
+    text-align: left;
+}
+#mobiledv-trms-h
+{
+    font-size: 14px;
+    font-weight: bold;
+}
+#mobiledv-trms-c
+{
+    font-size: 12px;
+    line-height: 20px;
+}
+#mobiledv-trms-c li
+{
+    background: url('../images/green_bullets.png') no-repeat 0px 5px;
+    display: block;
+    padding-left: 10px;
+}
+#mobiledv-map
+{
+    border-bottom: 1px solid gray;
+    text-align: left;
+}
+#mobiledv-map-h
+{
+    font-size: 14px;
+    font-weight: bold;
+}
+#mobiledv-map-c
+{
+    font-size: 12px;
+}
+.mobiledv-map-m
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid green;
+}
